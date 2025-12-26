@@ -27,6 +27,11 @@ The dashboard enabled clear and actionable insights, including:
 - Monthly profit analysis revealed peak performance during specific months, indicating seasonal sales patterns
 - High-value customers were identified, presenting opportunities for targeted engagement
 
+  ## Dashboard Preview
+
+![Madhav Dashboard](screenshots/Madhav_dashboard.png)
+
+
 ## Tools Used
 - Power BI (Data Modeling, DAX, Interactive Visuals)
 - Microsoft Excel (Data Cleaning & Preprocessing)
